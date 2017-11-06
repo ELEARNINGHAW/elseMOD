@@ -2,8 +2,12 @@
 
 ELSE - Moodle - MOD
 
+moodle/mod/else
+
 werner.welte@haw-hamburg.de
 
 06.11.2017
 
 ---------------------------------------------------------------------------------------------------
+
+rename directory to else
