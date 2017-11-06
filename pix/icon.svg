@@ -14,7 +14,10 @@
    viewBox="0 0 249.99999 250"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="book-icon.svg">
+   sodipodi:docname="book-icon.svg"
+   inkscape:export-filename="C:\Users\werner\Desktop\book-783394.png"
+   inkscape:export-xdpi="8.6400003"
+   inkscape:export-ydpi="8.6400003">
   <metadata
      id="metadata362">
     <rdf:RDF>
@@ -42,12 +45,12 @@
      showgrid="false"
      units="px"
      inkscape:zoom="1.7941506"
-     inkscape:cx="234.16085"
-     inkscape:cy="161.31852"
+     inkscape:cx="267.80359"
+     inkscape:cy="168.98277"
      inkscape:window-x="1672"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="g152" />
   <defs
      id="defs4">
     <filter
@@ -580,7 +583,7 @@
        d="m 101.92512,936.94429 c -5.486599,0 -9.569599,1.1995 -9.569599,1.1995 l 0,0.90179 c 0,0 4.0829,-1.1995 9.569599,-1.1995 5.1972,0 9.5596,1.1995 9.5596,1.1995 l 0,-0.90179 c 0,0 -4.3625,-1.1995 -9.5596,-1.1995 z" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:url(#ay);stroke-width:0.42923"
+       style="fill:#aa0000;stroke-width:0.42923"
        id="path200"
        d="m 71.618121,861.93429 c 0,0 4.0798,-4.2485 9.5665,-4.2485 5.1972,0 9.5665,4.2485 9.5665,4.2485 l 0,85.678 -19.133,0 0,-85.678 z" />
     <path
@@ -648,5 +651,75 @@
        inkscape:connector-curvature="0"
        id="path226"
        d="m 143.15512,877.83429 c -5.4866,0 -9.5696,1.1995 -9.5696,1.1995 l 0,0.90179 c 0,0 4.0829,-1.1995 9.5696,-1.1995 5.1972,0 9.5596,1.1995 9.5596,1.1995 l 0,-0.90179 c 0,0 -4.3625,-1.1995 -9.5596,-1.1995 z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.4135828px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-888.28577"
+       y="131.61212"
+       id="text4596"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1.0380182,0.96337426,0,0,0)"><tspan
+         sodipodi:role="line"
+         x="-888.28577"
+         y="131.61212"
+         id="tspan4600">EMIL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.4135828px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-898.12872"
+       y="174.23106"
+       id="text4604"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1.0380182,0.96337426,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4606"
+         x="-898.12872"
+         y="174.23106">ERNA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.4135828px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="-904.00366"
+       y="88.702805"
+       id="text4608"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1.0380182,0.96337426,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4610"
+         x="-904.00366"
+         y="88.702805">ELSE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.4135828px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-897.09528"
+       y="109.54644"
+       id="text4612"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1.0380182,0.96337426,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4614"
+         x="-897.09528"
+         y="109.54644">HIBS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.4135828px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-889.07898"
+       y="152.74083"
+       id="text4616"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1.0380182,0.96337426,0,0,0)"
+       inkscape:transform-center-x="-50.163012"
+       inkscape:transform-center-y="-15.60627"><tspan
+         sodipodi:role="line"
+         id="tspan4618"
+         x="-889.07898"
+         y="152.74083">HAW</tspan></text>
   </g>
+  <rect
+     style="opacity:1;fill:#2b0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.97146368;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4594"
+     width="247.29654"
+     height="16.74954"
+     x="1.6578246"
+     y="216.54372"
+     ry="0" />
 </svg>
